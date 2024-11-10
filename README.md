@@ -1,7 +1,7 @@
 # 8051-tetris-game
 Tetris game on 8051
 
-![GitHub](https://img.shields.io/github/license/ashvnv/FPGA-Ping-Pong-game)
+![GitHub](https://img.shields.io/github/license/ashvnv/8051-tetris-game)
 
 Program is written in Assembly Language on Keil uVision and simulation was done on Proteus 8.15
 
